@@ -289,15 +289,15 @@ Currently:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=000akash000&show_icons=true&theme=transparent&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=C39BD3&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=000aksh000&show_icons=true&theme=transparent&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=C39BD3&bg_color=0D1117&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000akash000&layout=compact&theme=transparent&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000aksh000&layout=compact&theme=transparent&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=000akash000&theme=transparent&hide_border=true&ring=9B59B6&fire=C39BD3&currStreakLabel=9B59B6&sideLabels=C39BD3&currStreakNum=C39BD3&sideNums=C39BD3&dates=6E3380&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=000aksh000&theme=transparent&hide_border=true&ring=9B59B6&fire=C39BD3&currStreakLabel=9B59B6&sideLabels=C39BD3&currStreakNum=C39BD3&sideNums=C39BD3&dates=6E3380&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -311,7 +311,7 @@ Currently:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=000akash000&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=9B59B6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=000aksh000&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=9B59B6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -325,7 +325,7 @@ Currently:
 
 <div align="center">
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=000akash000&bg_color=0D1117&color=9B59B6&line=6E3380&point=C39BD3&area=true&hide_border=true&custom_title=Akash%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=000aksh000&bg_color=0D1117&color=9B59B6&line=6E3380&point=C39BD3&area=true&hide_border=true&custom_title=Akash%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -340,9 +340,9 @@ Currently:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/000akash000/000akash000/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/000akash000/000aksh000/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/000akash000/000akash000/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/000akash000/000akash000/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/000aksh000/000aksh000/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -432,7 +432,7 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-yadav-3003)
 [![Gmail](https://img.shields.io/badge/Email-Hire_Me-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav300304@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Challenge_Me-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/000akash000/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000akash000)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
 
 <br/>
 
@@ -457,11 +457,11 @@ open_to:
 ║          Thanks for visiting my profile! 🚀                   ║
 ║     Let's connect, collaborate, and build the future.         ║
 ║                                                               ║
-║         ⭐ Star my repos if you find them useful! ⭐          ║
+║         ⭐ Star my repos if you find them useful! ⭐         ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_by_Akash_Yadav-9B59B6?style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=000akash000.000akash000&left_color=0D1117&right_color=9B59B6)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=000aksh000.000akash000&left_color=0D1117&right_color=9B59B6)
 
 </div>
