@@ -27,74 +27,48 @@
 <!--                       ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" style="border-radius: 12px;"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-Name        : Akash Yadav
-Role        : Full Stack Developer & SDE Intern Aspirant
-Education   : B.Tech Information Technology
-              Maharaja Agrasen Institute of Technology, Delhi
-              2023 – 2027
-Location    : Delhi, India
-Email       : akashyadav300304@gmail.com
+### 👨‍💻 Akash Yadav
 
-Strengths:
-  - Full Stack Web Development (MERN + SQL)
-  - RESTful API Design & Backend Architecture
-  - Competitive Programming (200+ DSA problems)
-  - Database Design & JWT Authentication
+🎓 **B.Tech Information Technology**  
+Maharaja Agrasen Institute of Technology (MAIT), Delhi  
+**2023 – 2027**
 
-Currently:
-  - Building production-grade full-stack platforms
-  - Sharpening DSA & System Design skills
-  - Targeting SDE Intern / Backend Developer roles
-```
+📍 **Delhi, India**
+
+💼 **Full Stack Developer • Backend Enthusiast • SDE Intern Aspirant**
+
+<br>
+
+### ⚡ What I Do
+
+- 🚀 Build full-stack web applications
+- 🔐 Develop secure REST APIs with JWT Authentication
+- 🗄️ Design efficient SQL & NoSQL databases
+- 🧠 Solve Data Structures & Algorithms problems
+- 🌱 Continuously learn modern backend technologies
+
+<br>
+
+### 🎯 Currently
+
+- 📚 Mastering Data Structures & Algorithms
+- ⚙️ Learning System Design
+- 🌐 Building production-ready MERN projects
+- 💼 Preparing for Software Engineering internships
+
+<br>
+
+### 🛠 Tech Focus
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=6"/>
+</p>
 
 <br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> &nbsp; Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=9B59B6)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=9B59B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=9B59B6)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=9B59B6)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=9B59B6)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=9B59B6)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=9B59B6)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=9B59B6)
-
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=9B59B6)
-![bcrypt](https://img.shields.io/badge/bcrypt-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=9B59B6)
-
-### 💻 Languages & Tools
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=9B59B6)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=9B59B6)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=9B59B6)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9B59B6)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9B59B6)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=9B59B6)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=9B59B6)
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  AI/ML EXPERTISE TABLE                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -193,32 +167,28 @@ Currently:
 <!--                      EXPERIENCE                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💼 &nbsp; Experience
+## 💼 Experience
 
-<div align="center">
+### 🎓 Education
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                      PROFESSIONAL JOURNEY                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🎓  B.Tech Information Technology                               ║
-║      Maharaja Agrasen Institute of Technology, Delhi             ║
-║      2023 – 2027                                                  ║
-║      📍 Active: Building full-stack projects & DSA portfolio     ║
-║                                                                  ║
-║  💻  Independent Full Stack Developer                            ║
-║      Self-directed Project Development | 2023 – Present          ║
-║      ✦ Built NextStop — railway food delivery platform           ║
-║      ✦ Built Smart Society Management Platform                   ║
-║      ✦ 200+ DSA problems on LeetCode & GeeksforGeeks             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+> **B.Tech Information Technology**
+>
+> Maharaja Agrasen Institute of Technology
+>
+> **2023 – 2027**
 
 ---
+
+### 💻 Independent Full Stack Developer
+
+**2023 – Present**
+
+- 🚀 Built **NextStop** – Railway Food Delivery Platform
+- 🏘 Built **Smart Society Management Platform**
+- ⚙ Designed scalable REST APIs
+- 🔐 Implemented JWT Authentication
+- 🧠 Solved **200+ DSA Problems**
+- 🌱 Currently learning **System Design**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ACHIEVEMENTS                              -->
@@ -290,33 +260,12 @@ Currently:
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=000aksh000&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=000aksh000&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=000aksh000&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## &nbsp; ME RIGHT NOW
-
-<div align="center">
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
-
-</p>
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 CONTRIBUTION GRAPH                            -->
