@@ -229,27 +229,6 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 👨‍💻 &nbsp; Coding Profiles
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/000akash000?theme=dark&font=Fira%20Code&ext=heatmap&border=9B59B6)](https://leetcode.com/u/000aksh000/)
-
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000akash000-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/000akash000/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Akash_Yadav-9B59B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-000aksh000-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  GITHUB ANALYTICS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
