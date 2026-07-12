@@ -348,50 +348,6 @@ Currently:
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CURRENT FOCUS (YAML)                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp; Current Focus
-
-```yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   Akash Yadav — Current Focus  (2025–26)
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-career_target:
-  roles:
-    - Software Engineer Intern
-    - SDE Intern
-    - Backend Developer Intern
-    - Full Stack Developer Intern
-  companies: ["FAANG", "Unicorn Startups", "Top Product Companies"]
-  timeline: "2025 – 2026"
-
-active_learning:
-  dsa:
-    platform: ["LeetCode", "GeeksforGeeks"]
-    problems_solved: "200+"
-    focus: ["Trees", "Graphs", "Dynamic Programming", "Sliding Window"]
-  system_design:
-    topics: ["Load Balancing", "Caching", "Database Sharding", "Microservices"]
-  backend:
-    deepening: ["REST API Design Patterns", "SQL Optimisation", "Auth Systems"]
-
-building:
-  - "NextStop: Scaling railway delivery platform features"
-  - "Smart Society Platform: Adding analytics & notification modules"
-  - "Open Source Contributions: Exploring beginner-friendly repos"
-
-open_to:
-  - Internship Collaborations
-  - Open Source Contributions
-  - Hackathons & Coding Competitions
-  - Mentorship & Tech Communities
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       CONNECT                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -435,7 +391,7 @@ open_to:
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-![Made with ❤️](https://img.shields.io/badge/Made_with-❤️_by_Akash_Yadav-9B59B6?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/Made_by_Akash_Yadav-9B59B6?style=for-the-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=000aksh000.000akash000&left_color=0D1117&right_color=9B59B6)
 
 </div>
