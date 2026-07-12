@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9B59B6)](https://linkedin.com/in/akash-yadav-3003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=9B59B6)](https://leetcode.com/u/000akash000/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9B59B6)](mailto:akashyadav300304@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9B59B6)](https://github.com/000akash000)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9B59B6)](https://github.com/000aksh000)
 
 <img src="https://komarev.com/ghpvc/?username=000akash000&label=Profile+Views&color=9B59B6&style=for-the-badge" alt="Profile Views"/>
 
@@ -275,7 +275,7 @@ Currently:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000akash000-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/000akash000/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Akash_Yadav-9B59B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-000akash000-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
+[![GitHub](https://img.shields.io/badge/GitHub-000aksh000-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
 
 </div>
 
@@ -289,9 +289,9 @@ Currently:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=000aksh000&show_icons=true&theme=transparent&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=C39BD3&bg_color=0D1117&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=000aksh000&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000aksh000&layout=compact&theme=transparent&hide_border=true&title_color=9B59B6&text_color=C39BD3&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=000aksh000&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -366,7 +366,7 @@ Currently:
 
 <br/>
 
-📞 &nbsp; **+91-9310416064** &nbsp;|&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
+ &nbsp;|&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
 
 </div>
 
