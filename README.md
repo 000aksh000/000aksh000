@@ -275,7 +275,7 @@ Currently:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000akash000-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/000akash000/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Akash_Yadav-9B59B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-000akash000-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000akash000)
+[![GitHub](https://img.shields.io/badge/GitHub-000akash000-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
 
 </div>
 
