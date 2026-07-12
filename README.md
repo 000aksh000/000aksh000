@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey+there%2C+I'm+Akash+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hey+there%2C+I'm+Akash+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Akash%20Yadav&fontSize=70&fontColor=9B59B6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20B.Tech%20IT%20%7C%20MAIT%20Delhi&descAlignY=58&descColor=C39BD3" width="100%"/>
 
@@ -39,7 +39,6 @@ Education   : B.Tech Information Technology
               2023 – 2027
 Location    : Delhi, India
 Email       : akashyadav300304@gmail.com
-Phone       : +91-9310416064
 
 Strengths:
   - Full Stack Web Development (MERN + SQL)
@@ -297,8 +296,7 @@ Currently:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=000aksh000&theme=transparent&hide_border=true&ring=9B59B6&fire=C39BD3&currStreakLabel=9B59B6&sideLabels=C39BD3&currStreakNum=C39BD3&sideNums=C39BD3&dates=6E3380&background=0D1117" alt="GitHub Streak"/>
-
+<img src="https://streak-stats.demolab.com?user=000aksh000&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -307,12 +305,15 @@ Currently:
 <!--                   GITHUB TROPHIES                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏅 &nbsp; GitHub Trophies
+## &nbsp; ME RIGHT NOW
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=000aksh000&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=9B59B6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
+</p>
 </div>
 
 ---
@@ -366,7 +367,7 @@ Currently:
 
 <br/>
 
- &nbsp;|&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
+|&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
 
 </div>
 
