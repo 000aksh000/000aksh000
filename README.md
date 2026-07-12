@@ -328,18 +328,15 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&fontColor=9B59B6" width="100%"/>
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6EC6FF,40:5B8DEF,100:9B59B6"/>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║          Thanks for visiting my profile! 🚀                   ║
-║     Let's connect, collaborate, and build the future.         ║
-║                                                               ║
-║         ⭐ Star my repos if you find them useful! ⭐         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+### 💜 Happy Coding!
+
+⭐ Thanks for visiting my profile.
+
+</div>
 
 ![Made with ❤️](https://img.shields.io/badge/Made_by_Akash_Yadav-9B59B6?style=for-the-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=000aksh000.000akash000&left_color=0D1117&right_color=9B59B6)
