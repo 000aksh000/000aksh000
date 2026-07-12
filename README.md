@@ -231,7 +231,7 @@ Currently:
 
 | 🥇 Achievement | 📌 Detail |
 |:---|:---|
-| 💻 **200+ DSA Problems Solved** | LeetCode + GeeksforGeeks combined |
+| 💻 **250+ DSA Problems Solved** | LeetCode + GeeksforGeeks combined |
 | 🚂 **NextStop Platform Built** | End-to-end full stack app with auth & real-time features |
 | 🏘️ **Smart Society Platform Built** | Multi-role system with MySQL + Node.js backend |
 | 🎓 **B.Tech IT @ MAIT Delhi** | Pursuing with strong technical project portfolio |
@@ -269,7 +269,7 @@ Currently:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/000akash000?theme=dark&font=Fira%20Code&ext=heatmap&border=9B59B6)](https://leetcode.com/u/000akash000/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/000akash000?theme=dark&font=Fira%20Code&ext=heatmap&border=9B59B6)](https://leetcode.com/u/000aksh000/)
 
 <br/>
 
