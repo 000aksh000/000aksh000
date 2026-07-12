@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&width=1200&height=160&lines=Hey+there%2C+I'm+Akash+Yadav+%F0%9F%91%8B;Full+Stack+Developer+%7C+Competitive+Programmer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Akash%20Yadav&fontSize=70&fontColor=9B59B6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20B.Tech%20IT%20%7C%20MAIT%20Delhi&descAlignY=58&descColor=C39BD3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:66CCFF,50:5B8DEF,100:8A5CF6&text=Akash%20Yadav&fontSize=72&fontColor=F8FCFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20B.Tech%20IT%20|%20MAIT%20Delhi&descAlignY=58&descColor=E3F6FF"/>
 
 <br/>
 
