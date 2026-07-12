@@ -177,18 +177,6 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 >
 > **2023 – 2027**
 
----
-
-### 💻 Independent Full Stack Developer
-
-**2023 – Present**
-
-- 🚀 Built **NextStop** – Railway Food Delivery Platform
-- 🏘 Built **Smart Society Management Platform**
-- ⚙ Designed scalable REST APIs
-- 🔐 Implemented JWT Authentication
-- 🧠 Solved **200+ DSA Problems**
-- 🌱 Currently learning **System Design**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ACHIEVEMENTS                              -->
@@ -286,16 +274,8 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
 > *"I'm actively looking for SDE Intern / Full Stack Developer Internship opportunities. Let's build something great together!"*
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-yadav-3003)
-[![Gmail](https://img.shields.io/badge/Email-Hire_Me-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav300304@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Challenge_Me-9B59B6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/000akash000/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000aksh000)
-
-<br/>
-
-|&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
+&nbsp; 📧 &nbsp; **akashyadav300304@gmail.com**
 
 </div>
 
