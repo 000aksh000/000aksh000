@@ -11,7 +11,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5B8DEF)](https://linkedin.com/in/akash-yadav-3003)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=5B8DEF)](https://leetcode.com/u/000akash000/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=5B8DEF)](mailto:akashyadav300304@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5B8DEF)](https://github.com/000aksh000)
 
