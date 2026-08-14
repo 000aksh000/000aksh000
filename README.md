@@ -217,23 +217,6 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
 ---
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=000aksh000&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=000aksh000&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 CONTRIBUTION GRAPH                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
