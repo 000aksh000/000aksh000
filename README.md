@@ -41,27 +41,10 @@ Maharaja Agrasen Institute of Technology (MAIT), Delhi
 💼 **Full Stack Developer • Backend Enthusiast • SDE Intern Aspirant**
 
 <br>
-
-### ⚡ What I Do
-
-- 🚀 Build full-stack web applications
-- 🔐 Develop secure REST APIs with JWT Authentication
-- 🗄️ Design efficient SQL & NoSQL databases
-- 🧠 Solve Data Structures & Algorithms problems
-- 🌱 Continuously learn modern backend technologies
-
+<br>
 <br>
 
-### 🎯 Currently
-
-- 📚 Mastering Data Structures & Algorithms
-- ⚙️ Learning System Design
-- 🌐 Building production-ready MERN projects
-- 💼 Preparing for Software Engineering internships
-
-<br>
-
-### 🛠 Tech Focus
+🛠 Tech Focus
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=6"/>
